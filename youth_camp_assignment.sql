@@ -1,5 +1,5 @@
 
-CREATE DATABASE IF NOT EXISTS SummerCamp;
+CREATE DATABASE SummerCamp;
 USE SummerCamp;
 
 
